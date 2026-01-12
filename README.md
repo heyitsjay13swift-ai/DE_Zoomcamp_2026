@@ -1,2 +1,2 @@
 # DE_Zoomcamp_2026
-Module_1_workshop_codespaces
+Workshop_codespaces
